@@ -17,13 +17,11 @@
         target="_blank"
         href="https://github.com/yankeguo/utils.yankeguo.com/issues"
         >create a issue</a
+      >. If you find this site useful, please consider
+      <a class="underline" target="_blank" href="https://yankeguo.com"
+        >donating</a
       >
-    </p>
-    <p>
-      If you find this site useful, please consider subscribing to my
-      <a class="underline" target="_blank" href="https://patreon.com/yankeguo">
-        Patreon membership</a
-      >
+      to me
     </p>
   </div>
 </template>
