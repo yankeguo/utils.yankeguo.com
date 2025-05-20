@@ -36,8 +36,8 @@ importers:
         specifier: ^15.0.6
         version: 15.0.6
       openpgp:
-        specifier: ^6.0.1
-        version: 6.0.1
+        specifier: ^6.1.1
+        version: 6.1.1
       vue-codemirror:
         specifier: ^6.1.1
         version: 6.1.1(codemirror@6.0.1)(vue@3.5.13(typescript@5.7.3))
@@ -2625,8 +2625,8 @@ packages:
     peerDependencies:
       typescript: ^5.x
 
-  openpgp@6.0.1:
-    resolution: {integrity: sha512-3lReDKjgWsKFArZT4Y/yj7/Q0q6/VhXarn4WqKEkyiBWckNjrThSGoB1t0IKo3Ke0ClvBpyQfTwumkGUkxOwww==}
+  openpgp@6.1.1:
+    resolution: {integrity: sha512-V/DXZ5AGCz3q4X8psUSc3q4SxnH/bfICaTSpNcla7wvBFhrxa9/ajm31rtMwZ1qj7Fu2oMpfX6ZcxKmTBlb6Yg==}
     engines: {node: '>= 18.0.0'}
 
   package-json-from-dist@1.0.1:
@@ -6727,7 +6727,7 @@ snapshots:
     transitivePeerDependencies:
       - encoding
 
-  openpgp@6.0.1: {}
+  openpgp@6.1.1: {}
 
   package-json-from-dist@1.0.1: {}
 
